@@ -4,10 +4,11 @@ username = "Gwan Hyeon"
 print('Hello, ', username)
 
 # Don't do
-animals = ['cat', 'dog']
+animals = ['cat', 'dog', 'cow']
 
 # Do(Trailing comma)
 menus = [
     'Tteokbokki',
     'soup',
+    'beef'
 ]
