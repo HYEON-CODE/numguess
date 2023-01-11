@@ -17,3 +17,6 @@ for i in range(simulation_count):
         stay += 1
     else:
         switch += 1 # 문을 바꿨다면 switch + 1
+# simulation 결과 출력
+print(f"{simulation_count} times of simulation: {switch} times win(change) {stay} times win(stay)")
+
